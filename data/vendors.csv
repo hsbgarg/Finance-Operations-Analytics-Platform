@@ -1,0 +1,121 @@
+Vendor_ID,Vendor_Name,Category,State,Payment_Terms,GST_Number
+V001,Chawla LLC,Nutrition Kits,Karnataka,30 Days,27ABCDE6497F1Z5
+V002,Chadha Ltd,Nutrition Kits,Uttar Pradesh,30 Days,27ABCDE7452F1Z5
+V003,Nagar-Mitra,Training,Maharashtra,15 Days,27ABCDE7657F1Z5
+V004,Bose and Sons,Nutrition Kits,Uttar Pradesh,Immediate,27ABCDE1440F1Z5
+V005,"Gaba, Zacharia and Chadha",Training,Madhya Pradesh,30 Days,27ABCDE5022F1Z5
+V006,Bhakta and Sons,IT Equipment,Delhi,45 Days,27ABCDE8429F1Z5
+V007,"Balakrishnan, Srivastava and Korpal",Transport,Tamil Nadu,30 Days,27ABCDE9410F1Z5
+V008,"Bains, Sidhu and Mutti",IT Equipment,Madhya Pradesh,30 Days,27ABCDE9995F1Z5
+V009,Vyas-Bhandari,Utilities,Tamil Nadu,15 Days,27ABCDE6497F1Z5
+V010,Sampath-Pal,Transport,Madhya Pradesh,Immediate,27ABCDE1337F1Z5
+V011,Nath Ltd,Utilities,Madhya Pradesh,15 Days,27ABCDE4998F1Z5
+V012,Sane-Keer,Medicines,Maharashtra,30 Days,27ABCDE6065F1Z5
+V013,D’Alia-Viswanathan,Utilities,Delhi,45 Days,27ABCDE5311F1Z5
+V014,"Sabharwal, Pau and Dutt",Consulting,Uttar Pradesh,Immediate,27ABCDE1592F1Z5
+V015,"Singhal, Mammen and Chaudhuri",Office Supplies,Karnataka,30 Days,27ABCDE2282F1Z5
+V016,Kannan-Murthy,Utilities,Gujarat,15 Days,27ABCDE7007F1Z5
+V017,"Barad, Comar and Krishnamurthy",Training,Madhya Pradesh,15 Days,27ABCDE3521F1Z5
+V018,Saran and Sons,Utilities,Madhya Pradesh,15 Days,27ABCDE3019F1Z5
+V019,Om-Amble,Medicines,Maharashtra,15 Days,27ABCDE6428F1Z5
+V020,Thakkar Inc,Transport,Uttar Pradesh,30 Days,27ABCDE4408F1Z5
+V021,"Dada, Contractor and Kari",Consulting,Rajasthan,Immediate,27ABCDE5282F1Z5
+V022,"Swamy, Bhasin and Bath",Consulting,Madhya Pradesh,45 Days,27ABCDE6796F1Z5
+V023,Boase-Mand,Medicines,Gujarat,45 Days,27ABCDE6697F1Z5
+V024,Master LLC,Training,Rajasthan,30 Days,27ABCDE0854F1Z5
+V025,Mistry LLC,Consulting,Maharashtra,15 Days,27ABCDE8713F1Z5
+V026,"Kunda, Prabhu and Sodhi",Utilities,Madhya Pradesh,30 Days,27ABCDE8544F1Z5
+V027,Chhabra LLC,Office Supplies,Karnataka,Immediate,27ABCDE3900F1Z5
+V028,"Pillay, Vohra and Dave",Transport,Madhya Pradesh,15 Days,27ABCDE7799F1Z5
+V029,"Vala, Shroff and Sarna",Transport,Uttar Pradesh,30 Days,27ABCDE6544F1Z5
+V030,Purohit Ltd,Training,Uttar Pradesh,15 Days,27ABCDE5393F1Z5
+V031,"Nagar, Kakar and Bose",IT Equipment,Maharashtra,15 Days,27ABCDE4542F1Z5
+V032,Balasubramanian-Bir,Nutrition Kits,Madhya Pradesh,45 Days,27ABCDE3250F1Z5
+V033,Bir-Sahni,Training,Uttar Pradesh,15 Days,27ABCDE1793F1Z5
+V034,Sawhney Ltd,Consulting,Uttar Pradesh,45 Days,27ABCDE2304F1Z5
+V035,"Nori, Balan and Aggarwal",Office Supplies,Gujarat,15 Days,27ABCDE1947F1Z5
+V036,"Vaidya, Mistry and Tak",Medicines,Karnataka,30 Days,27ABCDE9368F1Z5
+V037,"Dora, Narula and Yadav",Consulting,Uttar Pradesh,45 Days,27ABCDE4011F1Z5
+V038,"Jani, Narayan and Gandhi",Training,Delhi,Immediate,27ABCDE9061F1Z5
+V039,Cheema-Dhawan,Medicines,Maharashtra,30 Days,27ABCDE5852F1Z5
+V040,"Kalla, Devan and Chaudry",Office Supplies,Uttar Pradesh,45 Days,27ABCDE5320F1Z5
+V041,Din Inc,Transport,Uttar Pradesh,Immediate,27ABCDE2528F1Z5
+V042,Munshi-Gaba,Nutrition Kits,Maharashtra,Immediate,27ABCDE7619F1Z5
+V043,Mani-Dora,Office Supplies,Madhya Pradesh,Immediate,27ABCDE3698F1Z5
+V044,Tak-Prashad,Nutrition Kits,Rajasthan,Immediate,27ABCDE9044F1Z5
+V045,Bhardwaj-Koshy,IT Equipment,Rajasthan,30 Days,27ABCDE5992F1Z5
+V046,Rajagopal-Rastogi,Nutrition Kits,Tamil Nadu,30 Days,27ABCDE7382F1Z5
+V047,Walia and Sons,Training,Delhi,Immediate,27ABCDE9210F1Z5
+V048,Shere-Sant,IT Equipment,Uttar Pradesh,15 Days,27ABCDE8004F1Z5
+V049,"Patla, Bhavsar and Hora",Transport,Delhi,15 Days,27ABCDE5518F1Z5
+V050,"Roy, Sanghvi and Dara",Training,Gujarat,15 Days,27ABCDE8681F1Z5
+V051,Sridhar and Sons,Training,Uttar Pradesh,15 Days,27ABCDE4220F1Z5
+V052,Mangat Inc,IT Equipment,Rajasthan,45 Days,27ABCDE5476F1Z5
+V053,"Ganesan, Saha and Mangal",Nutrition Kits,Maharashtra,45 Days,27ABCDE4167F1Z5
+V054,Mammen PLC,Nutrition Kits,Gujarat,30 Days,27ABCDE4563F1Z5
+V055,"Bail, Grewal and Narain",Transport,Delhi,15 Days,27ABCDE3381F1Z5
+V056,"Memon, Borde and Joshi",Consulting,Maharashtra,15 Days,27ABCDE1981F1Z5
+V057,Bumb-Natarajan,Nutrition Kits,Maharashtra,Immediate,27ABCDE9321F1Z5
+V058,"Handa, Dar and Panchal",Office Supplies,Tamil Nadu,Immediate,27ABCDE4750F1Z5
+V059,"Baria, Walia and Bala",Office Supplies,Madhya Pradesh,15 Days,27ABCDE5526F1Z5
+V060,"Mander, Bahl and Dixit",Nutrition Kits,Tamil Nadu,45 Days,27ABCDE4282F1Z5
+V061,"Goda, Sarkar and Rana",IT Equipment,Karnataka,45 Days,27ABCDE3267F1Z5
+V062,Thaker LLC,Utilities,Rajasthan,15 Days,27ABCDE2741F1Z5
+V063,Comar Inc,Transport,Uttar Pradesh,15 Days,27ABCDE2545F1Z5
+V064,"Chaudhari, Ramanathan and Pandey",IT Equipment,Tamil Nadu,Immediate,27ABCDE0798F1Z5
+V065,Dewan Inc,Nutrition Kits,Madhya Pradesh,30 Days,27ABCDE4777F1Z5
+V066,Dugal LLC,Nutrition Kits,Uttar Pradesh,15 Days,27ABCDE8945F1Z5
+V067,"Choudhry, Joshi and Agrawal",Utilities,Delhi,15 Days,27ABCDE4252F1Z5
+V068,"Kaul, Dey and Sahni",Training,Madhya Pradesh,Immediate,27ABCDE0174F1Z5
+V069,"Madan, Rattan and Chowdhury",Training,Uttar Pradesh,30 Days,27ABCDE7900F1Z5
+V070,Kunda and Sons,Utilities,Rajasthan,Immediate,27ABCDE9109F1Z5
+V071,"Dugal, Saini and Baria",Medicines,Madhya Pradesh,Immediate,27ABCDE7399F1Z5
+V072,Pandit Ltd,Office Supplies,Madhya Pradesh,Immediate,27ABCDE8999F1Z5
+V073,Raj-Bera,Office Supplies,Maharashtra,30 Days,27ABCDE1264F1Z5
+V074,"Tailor, Bhatnagar and Sathe",Transport,Madhya Pradesh,45 Days,27ABCDE5176F1Z5
+V075,Tripathi LLC,Utilities,Madhya Pradesh,15 Days,27ABCDE5364F1Z5
+V076,Bava-Apte,Office Supplies,Tamil Nadu,Immediate,27ABCDE0246F1Z5
+V077,"Gera, Garde and Tata",Office Supplies,Madhya Pradesh,15 Days,27ABCDE6767F1Z5
+V078,Handa-Nagar,Medicines,Delhi,45 Days,27ABCDE5819F1Z5
+V079,Balan and Sons,IT Equipment,Rajasthan,30 Days,27ABCDE7070F1Z5
+V080,"Arora, Kade and Srinivas",Consulting,Gujarat,15 Days,27ABCDE7256F1Z5
+V081,Lalla-Dugal,Nutrition Kits,Tamil Nadu,Immediate,27ABCDE5101F1Z5
+V082,Khalsa-Ratti,Nutrition Kits,Rajasthan,Immediate,27ABCDE3490F1Z5
+V083,"Hegde, Lala and Iyer",Consulting,Maharashtra,15 Days,27ABCDE9446F1Z5
+V084,"Bhatt, Kakar and Nadkarni",Utilities,Rajasthan,45 Days,27ABCDE1461F1Z5
+V085,Jha PLC,Medicines,Uttar Pradesh,30 Days,27ABCDE9345F1Z5
+V086,Kalita and Sons,Office Supplies,Tamil Nadu,30 Days,27ABCDE9266F1Z5
+V087,Bedi-Sinha,Transport,Madhya Pradesh,15 Days,27ABCDE7871F1Z5
+V088,"Kadakia, Sagar and Bawa",Medicines,Delhi,45 Days,27ABCDE7780F1Z5
+V089,Grover Inc,Nutrition Kits,Uttar Pradesh,45 Days,27ABCDE7852F1Z5
+V090,"Wadhwa, Bhat and Nagarajan",Utilities,Uttar Pradesh,45 Days,27ABCDE1104F1Z5
+V091,Handa-Sarkar,Transport,Uttar Pradesh,30 Days,27ABCDE8841F1Z5
+V092,Barman-Konda,Nutrition Kits,Maharashtra,45 Days,27ABCDE0879F1Z5
+V093,"Madan, Saini and Acharya",Transport,Tamil Nadu,Immediate,27ABCDE1928F1Z5
+V094,Mall and Sons,Medicines,Gujarat,Immediate,27ABCDE1174F1Z5
+V095,Saini LLC,Utilities,Madhya Pradesh,Immediate,27ABCDE6860F1Z5
+V096,Sarkar Ltd,IT Equipment,Maharashtra,45 Days,27ABCDE3938F1Z5
+V097,Master-Banik,IT Equipment,Tamil Nadu,30 Days,27ABCDE9714F1Z5
+V098,Vohra LLC,Utilities,Tamil Nadu,45 Days,27ABCDE1557F1Z5
+V099,"Bahri, Munshi and Sehgal",Medicines,Maharashtra,30 Days,27ABCDE0084F1Z5
+V100,Pal-Sandhu,Office Supplies,Delhi,Immediate,27ABCDE1653F1Z5
+V101,"Rattan, Memon and Rana",Consulting,Rajasthan,30 Days,27ABCDE5932F1Z5
+V102,"Dey, Parsa and Dara",Consulting,Maharashtra,30 Days,27ABCDE0430F1Z5
+V103,"Sant, Sachar and Bhakta",IT Equipment,Rajasthan,Immediate,27ABCDE5423F1Z5
+V104,"Nigam, Palla and Dewan",Nutrition Kits,Gujarat,15 Days,27ABCDE9373F1Z5
+V105,Jhaveri-Rao,Medicines,Karnataka,30 Days,27ABCDE5499F1Z5
+V106,Roy-Mital,Nutrition Kits,Maharashtra,30 Days,27ABCDE7862F1Z5
+V107,"Prabhu, Parekh and Golla",Nutrition Kits,Delhi,45 Days,27ABCDE6457F1Z5
+V108,"Dani, Gara and Oak",Transport,Gujarat,15 Days,27ABCDE1528F1Z5
+V109,Bora LLC,IT Equipment,Karnataka,45 Days,27ABCDE4599F1Z5
+V110,Atwal-Misra,Nutrition Kits,Uttar Pradesh,30 Days,27ABCDE1501F1Z5
+V111,Acharya-Mangal,Medicines,Madhya Pradesh,45 Days,27ABCDE4950F1Z5
+V112,Butala-Narasimhan,Transport,Karnataka,Immediate,27ABCDE9480F1Z5
+V113,Nayak Ltd,Transport,Tamil Nadu,45 Days,27ABCDE1432F1Z5
+V114,Jaggi Inc,IT Equipment,Uttar Pradesh,30 Days,27ABCDE6455F1Z5
+V115,Sant-Sagar,Nutrition Kits,Gujarat,30 Days,27ABCDE7621F1Z5
+V116,Walla-Dar,Transport,Uttar Pradesh,15 Days,27ABCDE0089F1Z5
+V117,"Jaggi, Konda and Setty",Office Supplies,Gujarat,30 Days,27ABCDE8845F1Z5
+V118,Patel-Singh,Office Supplies,Maharashtra,30 Days,27ABCDE5711F1Z5
+V119,Aurora-Sheth,Transport,Maharashtra,Immediate,27ABCDE3811F1Z5
+V120,Bhardwaj Ltd,Transport,Rajasthan,45 Days,27ABCDE6577F1Z5
